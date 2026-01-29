@@ -36,6 +36,8 @@ npx skills add wondelai/skills/scorecard-marketing
 
 Strategic framework for discovering and designing product innovations. Customers don't buy products—they "hire" them to make progress in specific circumstances.
 
+**About the author:** [Clayton M. Christensen](https://x.com/claychristensen) (1952–2020) was a Harvard Business School professor widely regarded as one of the most influential business thinkers of our time. Named the world's most influential business thinker by Thinkers50 in 2011 and 2013, he developed the theory of "disruptive innovation" and authored nine books including *The Innovator's Dilemma*. Christensen co-founded Innosight (growth strategy consultancy), Rose Park Advisors (investment firm), and the Christensen Institute (non-profit think tank). His JTBD framework, detailed in [*"Competing Against Luck"*](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612), has been adopted by companies like Netflix, Intuit, and countless startups worldwide.
+
 **Use when you need to:**
 - Understand why customers really buy (or don't buy) your product
 - Design a new product or feature from scratch
@@ -57,6 +59,8 @@ Strategic framework for discovering and designing product innovations. Customers
 
 Scientific, customer-centric approach to conversion rate optimization. Rejects "best practices" in favor of evidence-based testing—understand WHY visitors don't convert before changing anything.
 
+**About the authors:** [Dr. Karl Blanks](https://www.karlblanks.com/) and [Ben Jesson](https://www.ben-jesson.co.uk/) are co-founders of Conversion Rate Experts (CRE), the world's leading conversion rate optimization agency. They received the Queen's Award for Enterprise twice—first for Innovation (codifying the scientific methodology now used by companies like Amazon and Google), and again for International Trade. Their client list includes Google, Apple, Facebook, Amazon, Dropbox, and many other leading tech companies. Their methodology has generated billions in additional revenue. [*"Making Websites Win"*](https://www.amazon.com/Making-Websites-Win-Customer-Centric-Methodology/dp/1544500513) became an Amazon #1 bestseller in 15 categories. All profits from the book are donated to the charity Mary's Meals.
+
 **Use when you need to:**
 - Audit a landing page or website for conversion issues
 - Identify why visitors aren't converting (objections vs. UX problems)
@@ -77,6 +81,8 @@ Scientific, customer-centric approach to conversion rate optimization. Rejects "
 ### refactoring-ui
 
 Practical, opinionated UI design system for developers. Design in grayscale first, add color last. Start with too much white space, then remove.
+
+**About the authors:** [Adam Wathan](https://x.com/adamwathan) is a full-stack developer and entrepreneur best known as the creator of Tailwind CSS, the utility-first CSS framework that has become one of the most popular styling tools in modern web development. [Steve Schoger](https://x.com/steveschoger) is a visual designer from Canada known for his practical design tips that went viral on Twitter, helping developers improve their UI skills. Together, they created [*"Refactoring UI"*](https://www.refactoringui.com/)—a book and video series teaching developers how to design beautiful interfaces without formal design training. Their collaboration bridges the gap between development and design, making good UI accessible to everyone who writes code.
 
 **Use when you need to:**
 - Make a UI "look less amateur" without a designer
@@ -100,6 +106,8 @@ Practical, opinionated UI design system for developers. Design in grayscale firs
 
 Design native iOS apps that feel intuitive and aligned with Apple's platform conventions. Covers layout, typography, navigation, gestures, colors, and accessibility.
 
+**About the source:** [Apple Inc.](https://x.com/Apple) has published Human Interface Guidelines since the original Macintosh in 1984, making it one of the oldest and most influential design documentation in computing history. The [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) define the design language for iOS, macOS, watchOS, tvOS, and visionOS—covering everything from typography and color to navigation patterns and accessibility. Apple's design philosophy emphasizes clarity, deference, and depth, creating interfaces that feel intuitive to billions of users worldwide. The HIG is continuously updated and represents decades of research into human-computer interaction.
+
 **Use when you need to:**
 - Design iPhone or iPad app interfaces
 - Build SwiftUI or UIKit components that feel native
@@ -121,6 +129,8 @@ Design native iOS apps that feel intuitive and aligned with Apple's platform con
 ### scorecard-marketing
 
 Lead generation system using interactive quiz/assessment funnels. Converts 30-50% vs 3-10% for traditional PDF lead magnets by creating psychological tension and self-qualification.
+
+**About the author:** [Daniel Priestley](https://x.com/DanielPriestley) is a serial entrepreneur who has built and sold multiple businesses. He founded Dent Global, one of the world's leading business accelerators for entrepreneurs, and co-founded ScoreApp, a marketing software platform serving over 150,000 businesses globally. Priestley has won major business awards and authored seven books on entrepreneurship, including bestsellers *Key Person of Influence*, *Entrepreneur Revolution*, *Oversubscribed*, and *24 Assets*. [*"Scorecard Marketing"*](https://www.amazon.com/Scorecard-Marketing-four-step-playbook-getting/dp/1781337195), co-authored with Glen Carlson, distills the methodology that powers ScoreApp into a practical playbook for generating qualified leads at scale.
 
 **Use when you need to:**
 - Create a lead magnet that actually converts
