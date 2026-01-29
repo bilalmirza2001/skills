@@ -21,11 +21,11 @@ npx skills add wondelai/skills/scorecard-marketing
 
 ## Available Skills
 
-| Skill | Description |
-|-------|-------------|
-| jobs-to-be-done | JTBD framework for product innovation (Clayton Christensen) |
-| cro-methodology | Conversion rate optimization from "Making Websites Win" |
-| refactoring-ui | Practical UI design system |
-| ios-hig-design | Apple Human Interface Guidelines for iOS |
-| web-design-guidelines | Web UI code review for accessibility |
-| scorecard-marketing | Quiz/assessment funnel lead generation |
+| Skill | Description | Based On |
+|-------|-------------|----------|
+| jobs-to-be-done | JTBD framework for product innovation | Clayton Christensen's *"Competing Against Luck"* |
+| cro-methodology | Conversion rate optimization methodology | Karl Blanks & Ben Jesson's *"Making Websites Win"* |
+| refactoring-ui | Practical UI design system | Adam Wathan & Steve Schoger's *"Refactoring UI"* |
+| ios-hig-design | Native iOS app design guidelines | Apple's *Human Interface Guidelines* |
+| web-design-guidelines | Web UI code review for accessibility | Vercel's *Web Interface Guidelines* |
+| scorecard-marketing | Quiz/assessment funnel lead generation | Daniel Priestley's *Scorecard Marketing* methodology |
