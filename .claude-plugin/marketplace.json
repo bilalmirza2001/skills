@@ -1,0 +1,46 @@
+{
+  "name": "wondelai-skills",
+  "owner": {
+    "name": "Wondel.ai",
+    "email": "hello@wondel.ai"
+  },
+  "metadata": {
+    "description": "Agent skills for product strategy, UX design, marketing, and conversion optimization",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "product-strategy",
+      "description": "Product strategy and innovation frameworks including Jobs to Be Done (Clayton Christensen) for customer discovery and product design",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./jobs-to-be-done"
+      ]
+    },
+    {
+      "name": "ux-design",
+      "description": "UX and UI design skills including Refactoring UI, iOS HIG design, usability heuristics, habit-forming product design, and web typography",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./refactoring-ui",
+        "./ios-hig-design",
+        "./ux-heuristics",
+        "./hooked-ux",
+        "./web-typography"
+      ]
+    },
+    {
+      "name": "marketing-cro",
+      "description": "Marketing and conversion optimization skills including CRO methodology, StoryBrand messaging, and Scorecard Marketing lead generation",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./cro-methodology",
+        "./storybrand-messaging",
+        "./scorecard-marketing"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,10 @@
 ---
 name: cro-methodology
 description: 'Customer-centric conversion rate optimization methodology based on "Making Websites Win" by Karl Blanks and Ben Jesson (Conversion Rate Experts). Use when optimizing websites, landing pages, funnels, improving conversion rates, analyzing why visitors don''t convert, creating persuasive copy, designing A/B tests, auditing UX, or building customer-centric websites. Provides systematic CRO process, objection/counter-objection framework, and evidence-based optimization techniques.'
+license: MIT
+metadata:
+  author: wondelai
+  version: "1.0"
 ---
 
 # CRO Methodology

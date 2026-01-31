@@ -4,6 +4,20 @@ Agent skills for Claude Code and agentskills.io-compatible agents.
 
 ## Installation
 
+### Via Claude Code Plugin Marketplace
+
+```bash
+# Add the marketplace
+/plugin marketplace add wondelai/skills
+
+# Install plugin collections
+/plugin install product-strategy@wondelai-skills    # Jobs to Be Done
+/plugin install ux-design@wondelai-skills           # Refactoring UI, iOS HIG, UX Heuristics, Hooked, Web Typography
+/plugin install marketing-cro@wondelai-skills       # CRO Methodology, StoryBrand, Scorecard Marketing
+```
+
+### Via skills.sh
+
 Install via [skills.sh](https://skills.sh):
 
 ```bash

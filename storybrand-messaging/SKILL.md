@@ -1,6 +1,10 @@
 ---
 name: storybrand-messaging
 description: 'StoryBrand messaging framework based on Donald Miller''s "Building a StoryBrand". Use when you need to: (1) clarify your brand message so customers understand it, (2) create website copy that converts, (3) write one-liners and elevator pitches, (4) build landing pages that follow narrative structure, (5) create marketing collateral that positions customer as hero, (6) diagnose why messaging isn''t resonating, (7) develop a brand script for consistent communication.'
+license: MIT
+metadata:
+  author: wondelai
+  version: "1.0"
 ---
 
 # StoryBrand Messaging Framework

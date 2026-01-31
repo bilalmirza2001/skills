@@ -1,6 +1,10 @@
 ---
 name: refactoring-ui
 description: Practical UI design system based on Refactoring UI (Wathan & Schoger). Use when creating or improving user interfaces, web components, dashboards, landing pages, or any visual design work. Applies to HTML/CSS, React, Tailwind, or any frontend output. Triggers on requests for UI design, styling, layout, color schemes, typography, visual hierarchy, or making interfaces "look better."
+license: MIT
+metadata:
+  author: wondelai
+  version: "1.0"
 ---
 
 # Refactoring UI Design System

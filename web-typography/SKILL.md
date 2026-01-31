@@ -1,6 +1,10 @@
 ---
 name: web-typography
 description: Web typography principles based on "On Web Typography" by Jason Santa Maria (A Book Apart, 2014). Use when selecting typefaces, setting body text, creating type hierarchies, pairing fonts, or implementing typography in CSS. Triggers on requests for font selection, readable text, typographic hierarchy, font pairing, or "making text look better."
+license: MIT
+metadata:
+  author: wondelai
+  version: "1.0"
 ---
 
 # Web Typography
