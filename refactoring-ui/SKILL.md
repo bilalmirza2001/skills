@@ -15,6 +15,10 @@ A practical, opinionated approach to UI design. Apply these principles when gene
 
 **Details come later.** Don't obsess over icons, shadows, or micro-interactions until the layout and hierarchy work.
 
+## Scoring
+
+**Goal: 10/10.** When reviewing or creating UI designs or frontend code, rate it 0-10 based on adherence to the principles below. A 10/10 means full alignment with all guidelines; lower scores indicate gaps to address. Always provide the current score and specific improvements needed to reach 10/10.
+
 ## Visual Hierarchy
 
 Not everything can be important. Create hierarchy through three levers:

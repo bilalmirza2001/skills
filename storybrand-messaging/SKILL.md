@@ -11,6 +11,10 @@ Framework for clarifying your message so customers will listen. Based on a funda
 
 **The customer is the hero, not your brand.** Your brand is the guide who helps the hero win. When you position yourself as the hero, you compete with your customer. When you position yourself as the guide, you serve them.
 
+## Scoring
+
+**Goal: 10/10.** When reviewing or creating marketing copy or brand messaging, rate it 0-10 based on adherence to the principles below. A 10/10 means full alignment with all guidelines; lower scores indicate gaps to address. Always provide the current score and specific improvements needed to reach 10/10.
+
 ## The SB7 Framework
 
 Every compelling story follows the same pattern. Use this structure for all messaging:

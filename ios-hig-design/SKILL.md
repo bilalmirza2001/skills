@@ -21,6 +21,10 @@ The interface should never overshadow the content. The UI exists to support user
 ### 3. Depth
 Layering, transitions, and realistic motion provide hierarchy and spatial relationships.
 
+## Scoring
+
+**Goal: 10/10.** When reviewing or creating iOS interfaces or SwiftUI/UIKit code, rate them 0-10 based on adherence to the principles below. A 10/10 means full alignment with all guidelines; lower scores indicate gaps to address. Always provide the current score and specific improvements needed to reach 10/10.
+
 ---
 
 ## Screen Sizes & Layout

@@ -13,6 +13,10 @@ A proven 4-step system for generating qualified leads through interactive assess
 
 Key insight: While people actively searching are harder to sell to (already decided, set budget), those with dormant desires buy from whoever helped them uncover the need.
 
+## Scoring
+
+**Goal: 10/10.** When reviewing or creating assessment funnels or quiz landing pages, rate them 0-10 based on adherence to the principles below. A 10/10 means full alignment with all guidelines; lower scores indicate gaps to address. Always provide the current score and specific improvements needed to reach 10/10.
+
 ## The 4-Step Scorecard System
 
 ### Step 1: Landing Page

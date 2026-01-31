@@ -19,6 +19,10 @@ Trigger → Action → Variable Reward → Investment
 
 **Habit Zone:** Products enter the "habit zone" when used frequently enough and with enough perceived value. The goal is to move users from deliberate usage to automatic, habitual behavior.
 
+## Scoring
+
+**Goal: 10/10.** When reviewing or creating product engagement mechanics, rate them 0-10 based on adherence to the principles below. A 10/10 means full alignment with all guidelines; lower scores indicate gaps to address. Always provide the current score and specific improvements needed to reach 10/10.
+
 ## The Four Phases
 
 ### 1. Trigger

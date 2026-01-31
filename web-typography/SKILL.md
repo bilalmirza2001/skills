@@ -15,6 +15,10 @@ A practical guide to choosing, pairing, and implementing typefaces for the web. 
 
 **Readers don't read, they scan.** Eyes jump 7-9 characters at a time (saccades), pausing briefly (fixations). Good typography supports this natural pattern.
 
+## Scoring
+
+**Goal: 10/10.** When reviewing or creating typography implementations, rate them 0-10 based on adherence to the principles below. A 10/10 means full alignment with all guidelines; lower scores indicate gaps to address. Always provide the current score and specific improvements needed to reach 10/10.
+
 ## Two Contexts for Type
 
 All typography falls into two categories:

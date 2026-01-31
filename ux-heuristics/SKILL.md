@@ -11,6 +11,10 @@ Practical usability principles for evaluating and improving user interfaces. Bas
 
 **"Don't Make Me Think"** - Every page should be self-evident. If something requires thinking, it's a usability problem.
 
+## Scoring
+
+**Goal: 10/10.** When reviewing or creating user interfaces, rate them 0-10 based on adherence to the principles below. A 10/10 means full alignment with all guidelines; lower scores indicate gaps to address. Always provide the current score and specific improvements needed to reach 10/10.
+
 ## Krug's Three Laws of Usability
 
 ### 1. Don't Make Me Think

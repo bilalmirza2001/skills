@@ -11,6 +11,10 @@ Scientific, customer-centric approach to conversion rate optimization based on t
 
 **Don't guess—discover.** The methodology rejects "best practices" and "magic buttons" in favor of evidence-based optimization. Extraordinary improvements come from understanding WHY visitors don't convert, not from copying competitors or applying generic tips.
 
+## Scoring
+
+**Goal: 10/10.** When reviewing or creating landing pages, funnels, or conversion flows, rate them 0-10 based on adherence to the principles below. A 10/10 means full alignment with all guidelines; lower scores indicate gaps to address. Always provide the current score and specific improvements needed to reach 10/10.
+
 ## The 9-Step CRE Process
 
 ### 1. Define Success Metrics

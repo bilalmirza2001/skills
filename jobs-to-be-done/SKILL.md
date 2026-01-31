@@ -16,6 +16,10 @@ Key elements of the definition:
 - **Circumstances** - context determines the job, not customer attributes (demographics are useless)
 - **Hiring/Firing** - customer actively chooses a product for the "job"
 
+## Scoring
+
+**Goal: 10/10.** When reviewing or creating product strategy or positioning, rate it 0-10 based on adherence to the principles below. A 10/10 means full alignment with all guidelines; lower scores indicate gaps to address. Always provide the current score and specific improvements needed to reach 10/10.
+
 ## Three Dimensions of Every Job
 
 Every job has three inseparable dimensions - omitting any means failure:
