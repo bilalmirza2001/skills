@@ -12,7 +12,7 @@ description: >
 license: MIT
 metadata:
   author: wondelai
-  version: "1.2.0"
+  version: "1.3.0"
 ---
 
 # Top-Design: Award-Winning Digital Experiences
@@ -476,3 +476,4 @@ AI SLOP (Immediate Rejection)
 6. **Sweat the micro-details** — craft lives in the 1% others skip
 7. **Design the states** — hover, focus, loading, empty, error all matter
 8. **Own your constraints** — every limitation is a design opportunity
+9. **Use project conventions** — if Tailwind 4+ and/or shadcn/ui are available, build on top of them rather than fighting them. Extend their design tokens, customize their components, and use their patterns as a foundation for 10/10 craft
