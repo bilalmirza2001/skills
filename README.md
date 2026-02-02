@@ -12,7 +12,7 @@ Agent skills for Claude Code and agentskills.io-compatible agents.
 
 # Install plugin collections
 /plugin install product-strategy@wondelai-skills    # Jobs to Be Done
-/plugin install ux-design@wondelai-skills           # Refactoring UI, iOS HIG, UX Heuristics, Hooked, Web Typography
+/plugin install ux-design@wondelai-skills           # Refactoring UI, iOS HIG, UX Heuristics, Hooked, Web Typography, Top Design
 /plugin install marketing-cro@wondelai-skills       # CRO Methodology, StoryBrand, Scorecard Marketing
 ```
 
@@ -34,6 +34,7 @@ npx skills add wondelai/skills/storybrand-messaging
 npx skills add wondelai/skills/hooked-ux
 npx skills add wondelai/skills/ux-heuristics
 npx skills add wondelai/skills/web-typography
+npx skills add wondelai/skills/top-design
 ```
 
 ## Available Skills
@@ -49,6 +50,7 @@ npx skills add wondelai/skills/web-typography
 | hooked-ux | Habit-forming product design | [Nir Eyal](https://x.com/naboreeyal)'s [*"Hooked"*](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788?tag=wondelai00-20) |
 | ux-heuristics | Usability evaluation and principles | [Steve Krug](https://x.com/skrug)'s [*"Don't Make Me Think"*](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515?tag=wondelai00-20) & [Jakob Nielsen](https://x.com/nngroup)'s [10 Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) |
 | web-typography | Web typography principles and implementation | [Jason Santa Maria](https://x.com/jasonsantamaria)'s [*"On Web Typography"*](https://www.amazon.com/Web-Typography-Jason-Santa-Maria/dp/1937557065?tag=wondelai00-20) |
+| top-design | Award-winning 10/10 web design matching elite agencies | Techniques from Locomotive, Studio Freight, AREA 17, Awwwards winners |
 
 ---
 
@@ -269,6 +271,28 @@ Web typography principles for choosing, pairing, and implementing typefaces. Typ
 
 ---
 
+### top-design
+
+Create award-winning websites and applications with design and typography rated 10/10. Build premium digital experiences that match the quality of elite agencies like Locomotive, Studio Freight, AREA 17, Active Theory, Hello Monday, and Awwwards winners.
+
+**About the source:** This skill synthesizes techniques from the world's top digital agencies—studios that consistently win FWA, Awwwards, CSS Design Awards, and Webby Awards. Every pixel is intentional, typography is architecture, motion creates emotion, and performance is non-negotiable.
+
+**Use when you need to:**
+- Build premium portfolio sites, brand websites, or agency-level experiences
+- Create immersive web experiences with custom animations
+- Implement exceptional typography with dramatic scale contrast
+- Design scroll-based compositions with purposeful motion
+- Match the quality of Awwwards-winning sites
+
+**Example prompts:**
+- *"Build a portfolio site at the level of Studio Freight or Locomotive. Use top-design skill."*
+- *"Create an immersive hero section with award-winning typography. Use top-design skill."*
+- *"Design a scroll-based experience for a luxury brand. Use top-design skill."*
+- *"Review this website against top agency standards. Use top-design skill."*
+- *"Add custom animations that feel like an Awwwards winner. Use top-design skill."*
+
+---
+
 ## Copyright & Disclaimer
 
 The methodologies and frameworks referenced in these skills are the intellectual property of their respective authors and publishers. All copyrights belong to:
@@ -283,6 +307,7 @@ The methodologies and frameworks referenced in these skills are the intellectual
 - **Don't Make Me Think**: Steve Krug
 - **10 Usability Heuristics**: Jakob Nielsen (Nielsen Norman Group)
 - **On Web Typography**: Jason Santa Maria
+- **Top Design**: Techniques inspired by Locomotive, Studio Freight, AREA 17, Active Theory, Hello Monday, Dogstudio, Tonik, Instrument, Resn
 
 These skills were created without directly copying or reproducing content from the original books or materials. They are based on:
 - Publicly available information about the methodologies

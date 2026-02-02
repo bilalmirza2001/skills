@@ -20,7 +20,7 @@
     },
     {
       "name": "ux-design",
-      "description": "UX and UI design skills including Refactoring UI, iOS HIG design, usability heuristics, habit-forming product design, and web typography",
+      "description": "UX and UI design skills including Refactoring UI, iOS HIG design, usability heuristics, habit-forming product design, web typography, and award-winning top-design",
       "source": "./",
       "strict": false,
       "skills": [
@@ -28,7 +28,8 @@
         "./ios-hig-design",
         "./ux-heuristics",
         "./hooked-ux",
-        "./web-typography"
+        "./web-typography",
+        "./top-design"
       ]
     },
     {
