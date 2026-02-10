@@ -2,3 +2,5 @@
 *.zip
 *.skill
 node_modules/
+.claude/*
+!.claude/skills/
